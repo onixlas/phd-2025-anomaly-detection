@@ -17,13 +17,16 @@ Used in the *Positive Hack Days* conference talk. Fork and run to reproduce slid
 
 ## Quick Start
 1. Clone the repo:
+
    ```bash
    git clone https://github.com/onixlas/phd-2025-anomaly-detection.git
-```
+   ```
+
 2. Install dependencies:
+
    ```bash
     pip install -r requirements.txt
-```
+   ```
 
 3. Run any notebook.
 
