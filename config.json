@@ -1,6 +1,9 @@
 {
    "dpi": 300,
-   "base_color": "#009f06",
-   "light_color": "white",
-   "edge_color": "black"
+   "base_color": "#D239F3",
+   "light_color": "#FFD700",
+   "edge_color": "white",
+   "axis_color": "white",
+   "grid_color": "#625988",
+   "format": "svg"
 }
